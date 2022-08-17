@@ -12,10 +12,9 @@ Hi! I'm Jonatas, a recently graduated Ph.D. in Computer Science looking for Post
 
 Research Interests
 ======
+* Network Management
 * Programmable Networks
-* P4
 * Machine Learning
-* Network Monitoring and Troubleshooting
 
 Education
 ======
