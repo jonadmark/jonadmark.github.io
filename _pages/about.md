@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a recently graduated Ph.D. in Computer Science looking for PostDoc positions in the Greater Chicago and Urbana-Champaign areas.<!-- My research applies a strong background in algorithms to design novel solutions to networking problems.-->
+Hi! I'm Jonatas, a recently graduated Ph.D. in Computer Science looking for PostDoc positions in the Greater Chicago and Urbana-Champaign areas. My research helps advance network management in the programmable networking era.
+
+News
+======
+* July, 2022: Obtained the Ph.D. degree with honors from the Federal University of Rio Grande do Sul
+* Nov, 2020: Our work "IntSight: Diagnosing SLO Violations with In-Band Network Telemetry" accepted to ACM CoNEXT
+* April, 2019: Our work on "Offloading Real-time DDoS Attack Detection to Programmable Data Planes" received the Best Student Paper Award at IFIP/IEEE IM
+* May, 2018: Our work on "Strategies for Orchestrating In-band Network Telemetry in Programmable Data Planes" received the Best Paper Award at SBC SBRC
+
 
 Research Interests
 ======
