@@ -83,7 +83,7 @@ author:
   name             : "Jonatas Marques"
   avatar           : "profile.png"
   bio              : "Ph.D. in Computer Science | Looking for PostDoc positions in the Greater Chicago and Urbana-Champaign areas."
-  location         : "Joinville, Brazil → Illinois, USA"
+  location         :  # "Joinville, Brazil → Illinois, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=20R9TQ4AAAAJ"
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jonatas-marques"
-  orcid            : "https://orcid.org/0000-0002-7757-6505"
+  orcid            : # "https://orcid.org/0000-0002-7757-6505"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jonadmark"
+  twitter          : # "jonadmark"
   vine             :
   weibo            :
   xing             :
