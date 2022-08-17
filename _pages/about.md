@@ -17,7 +17,7 @@ Research Interests
 * Machine Learning
 * Network Monitoring and Troubleshooting
 
-My background and history
+Education
 ======
 I received my Ph.D. in Computer Science from the Federal University of Rio Grande do Sul (UFRGS, Brasil) working under the supervision of Prof. Luciano Paschoal Gaspary. During my Ph.D., I also spent one year as a research scholar at the University of Illinois at Urbana-Champaign working with Prof. Kirill Levchenko. I received my M.Sc. in Applied Computing and B.Sc. in Computer Science from the State University of Santa Catarina (UDESC, Brasil), both under the supervision of Prof. Rafael Rodrigues Obelheiro.
 

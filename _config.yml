@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jonatas Marques"
   avatar           : "profile.png"
-  bio              : "Ph.D. in Computer Science | Looking for PostDoc positions in Greater Chicago and Urbana-Champain areas."
+  bio              : "Ph.D. in Computer Science | Looking for PostDoc positions in Greater Chicago and Urbana-Champaign areas."
   location         : "Joinville, Brazil → Illinois, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=20R9TQ4AAAAJ"
-  email            : "jon (dot) ad (dot) mark (at) gmail (dot) com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jonatas-marques/"
+  linkedin         : "jonatas-marques"
   orcid            : "https://orcid.org/0000-0002-7757-6505"
   pinterest        :
   soundcloud       :
