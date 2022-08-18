@@ -5,7 +5,7 @@ permalink: /code/
 author_profile: true
 ---
 
-Here you find source code and datasets created as part of my research. You can also find these resources on [my GitHub account](https://github.com/jonadmark).
+Here you find source code and datasets created as part of my research. You can also find these resources on [my GitHub page](https://github.com/jonadmark).
 
 ## [IntSight: Diagnosing SLO Violations with In-band Network Telemetry](https://github.com/jonadmark/intsight-conext)
 <span style="color:grey;">Dec, 2020</span> • The 16th ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT'20)
