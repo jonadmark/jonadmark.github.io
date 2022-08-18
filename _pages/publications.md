@@ -15,7 +15,7 @@ My published works are novel systems, frameworks, and models around topics of so
 
 **[2021]** [A systematic review on distributed denial of service attack defense mechanisms in programmable networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2163). Dalmazo, Bruno L; Marques, Jonatas A; Costa, Lucas R; Bonfim, Michel S; Carvalho, Ranyelson N; da Silva, Anderson S; Fernandes, Stenio; Bordim, Jacir L; Alchieri, Eduardo; Schaeffer‐Filho, Alberto. International Journal of Network Management, Wiley.
 
-**[2020]** [IntSight: diagnosing SLO violations with in-band network telemetry](https://dl.acm.org/doi/abs/10.1145/3386367.3431306). Marques, Jonatas; Levchenko, Kirill; Gaspary, Luciano. Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies, ACM.
+<i class="fas fa-fw fa-star" aria-hidden="true"></i> **[2020]** [IntSight: diagnosing SLO violations with in-band network telemetry](https://dl.acm.org/doi/abs/10.1145/3386367.3431306). Marques, Jonatas; Levchenko, Kirill; Gaspary, Luciano. Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies, ACM. [[Video]](https://www.youtube.com/watch?v=1KA6CJ7qqSU) [[Code]](https://github.com/jonadmark/intsight-conext)
 
 **[2020]** [Euclid: A fully in-network, P4-based approach for real-time DDoS attack detection and mitigation](https://ieeexplore.ieee.org/abstract/document/9311137). da Silveira Ilha, Alexandre; Lapolli, Ângelo Cardoso; Marques, Jonatas Adilson; Gaspary, Luciano Paschoal. IEEE Transactions on Network and Service Management, IEEE.
 
