@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a recently graduated PhD in Computer Science looking for Postdoctoral Research positions in the Greater Chicago and Urbana-Champaign areas. I earned my PhD from the Federal University of Rio Grande do Sul (UFRGS, Brasil). My research helps advance network management in the programmable networking era. I was advised by Prof. Luciano Paschoal Gaspary. I also spent one year as a research scholar at the University of Illinois at Urbana-Champaign working with Prof. Kirill Levchenko.
+Hi! I'm Jonatas, a recently graduated PhD in Computer Science looking for Postdoctoral Research positions in the Greater Chicago and Urbana-Champaign areas. I earned my PhD from the Federal University of Rio Grande do Sul (UFRGS, Brasil). My research helps advance network management in the programmable networking era. I was advised by Prof. Luciano Paschoal Gaspary. During my PhD, I also spent one year as a research scholar at the University of Illinois at Urbana-Champaign working with Prof. Kirill Levchenko.
 
 [[CV]](/files/cv.pdf) [[Google Scholar]]({{ author.googlescholar }}) [[LinkedIn]]({{ author.linkedin}}) [[Youtube]]({{ author.github }}) [[Github]]()
 
