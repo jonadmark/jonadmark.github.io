@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Jonatas, a recently graduated PhD in Computer Science **looking for Postdoctoral Research positions in the Greater Chicago and Urbana-Champaign areas.** I earned my PhD from the [Federal University of Rio Grande do Sul (UFRGS, Brasil)](http://www.ufrgs.br/). My research helps advance network management in the programmable networking era. I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/).
 
-[[CV]](/files/cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=20R9TQ4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/jonatas-marques) [[Youtube]](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw) [[Github]](https://github.com/jonadmark)
+**[[CV]](/files/cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=20R9TQ4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/jonatas-marques) [[Youtube]](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw) [[Github]](https://github.com/jonadmark)**
 
 News
 -----
