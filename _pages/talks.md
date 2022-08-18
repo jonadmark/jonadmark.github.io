@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Here you will find recordings of talks and presentations that I have given throughout the years. You can also find these recordings on [my Youtube channel](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw).
+Here you find recordings of talks and presentations that I have given throughout the years. You can also find these recordings on [my Youtube channel](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw).
 
 ## [Advancing Network Monitoring and Operation with In-band Network Telemetry and Data Plane Programmability](https://www.youtube.com/watch?v=MjewqfIDu2Y)
 <span style="color:grey;">Jul, 2022</span> • PhD Defense at the Federal University of Rio Grande do Sul (UFRGS, Brasil)
