@@ -14,7 +14,8 @@ Hi! I'm Jonatas, a recently graduated PhD in Computer Science **looking for Post
 
 News
 -----
-**[Jul, 2022]** I received the PhD degree with honors from the Federal University of Rio Grande do Sul (UFRGS, Brasil). [Watch the defense presentation here](https://www.youtube.com/watch?v=MjewqfIDu2Y).<br>
+**[Jul, 2022]** I received the PhD degree with honors from the Federal University of Rio Grande do Sul (UFRGS, Brasil)!
+ [Watch the defense presentation here](https://www.youtube.com/watch?v=MjewqfIDu2Y).<br>
 **[May, 2021]** Our IFIP/IEEE IM paper on [BUNGEE: An Adaptive Pushback Mechanism for DDoS Detection and Mitigation in P4 Data Planes](https://ieeexplore.ieee.org/abstract/document/9463992) is out!<br>
 **[Dec, 2020]** Our IEEE TNSMS article on [Euclid: A fully in-network, P4-based approach for real-time DDoS attack detection and mitigation](https://ieeexplore.ieee.org/abstract/document/9311137) is out!<br>
 **[Dec, 2020]** Our ACM CoNEXT paper on [IntSight: Diagnosing SLO Violations with In-Band Network Telemetry](https://dl.acm.org/doi/abs/10.1145/3386367.3431306) is out! [Watch the video presentation here](https://www.youtube.com/watch?v=1KA6CJ7qqSU).<br>
