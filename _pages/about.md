@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a recently graduated PhD in Computer Science **looking for Postdoctoral Research positions in the Greater Chicago and Urbana-Champaign areas.** I earned my PhD from the [Federal University of Rio Grande do Sul (UFRGS, Brasil)](http://www.ufrgs.br/). My research helps advance network management in the programmable networking era. I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/).
+Hi! I'm Jonatas, a recently graduated PhD in Computer Science **looking for Postdoctoral Research positions in the Greater Chicago and Urbana-Champaign areas.** I earned my PhD from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/). My research helps advance network management in the programmable networking era. I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/).
 
 **[[CV]](/files/cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=20R9TQ4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/jonatas-marques) [[Youtube]](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw) [[GitHub]](https://github.com/jonadmark)**
 
 News
 -----
-**[Jul, 2022]** I received the PhD degree with honors from the Federal University of Rio Grande do Sul (UFRGS, Brasil)!
+**[Jul, 2022]** I received the PhD degree with honors from the Federal University of Rio Grande do Sul (UFRGS, Brazil)!
  [Watch the defense presentation here](https://www.youtube.com/watch?v=MjewqfIDu2Y).<br>
 **[May, 2021]** Our IFIP/IEEE IM paper on [BUNGEE: An Adaptive Pushback Mechanism for DDoS Detection and Mitigation in P4 Data Planes](https://ieeexplore.ieee.org/abstract/document/9463992) is out!<br>
 **[Dec, 2020]** Our IEEE TNSMS article on [Euclid: A fully in-network, P4-based approach for real-time DDoS attack detection and mitigation](https://ieeexplore.ieee.org/abstract/document/9311137) is out!<br>
