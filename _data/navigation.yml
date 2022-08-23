@@ -20,9 +20,6 @@ main:
     
   - title: "CV"
     url: /files/cv.pdf
-
-  - title: "News"
-    url: /#news
     
 #  - title: "Guide"
 #    url: /markdown/
