@@ -3,9 +3,10 @@
    ========================================================================== */
 
 .masthead {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
+  // position: -webkit-sticky;
+  // position: sticky;
+  // top: 0;
+  position: relative;
 
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
