@@ -25,9 +25,10 @@ News
 
 Research Interests
 =====
-* Network, Service and Application Management
 * Programmable Networks
-* Machine Learning
+* Software-defined Networking
+* Network, Service and Application Management
+* Machine Learning for Networking
 
 Research Projects
 =====
