@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a recently graduated PhD in Computer Science **looking for Postdoctoral Research positions in the Greater Chicago and Urbana-Champaign areas.** I earned my PhD from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/). My research helps advance network management in the programmable networking era. I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/).
+Hi! I'm Jonatas, a recently graduated PhD in Computer Science. I earned my degree from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/). My research primarily helps advance network management in the era of programmable networking. I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/). I am currently a research assistant working on the intersection of machine learning and computer networking.
 
 **[[CV]](/files/cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=20R9TQ4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/jonatas-marques) [[Youtube]](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw) [[GitHub]](https://github.com/jonadmark)**
 
@@ -25,10 +25,10 @@ News
 
 Research Interests
 =====
-* Programmable Networks
-* Software-defined Networking
-* Network, Service and Application Management
 * Machine Learning for Networking
+* Network, Service and Application Management
+* Software-defined Networking
+* Programmable Networks
 
 Research Projects
 =====
