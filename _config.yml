@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonatas A. Marques"
   avatar           : "profile.png"
-  bio              : # "Ph.D. in Computer Science"
+  bio              : " " # "Ph.D. in Computer Science"
   location         :  # "Joinville, Brazil → Illinois, USA"
   employer         :
   pubmed           : 
