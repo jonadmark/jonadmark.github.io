@@ -5,13 +5,15 @@ permalink: /itensavenda/
 author_profile: false
 ---
 
-Olá,
+<font size="+2">
+Olá,<br>
 
-Esta página está dividida em duas partes: [itens de disponibilidade imediata](#disponibilidade-imediata) e [itens com disponibilidade por volta do dia 24 de Maio](#disponibilidade-por-volta-do-dia-24-de-maio). Iremos adicionar mais itens à medida que tirarmos fotos.
+Esta página está dividida em duas partes: itens de disponibilidade imediata e itens com disponibilidade por volta do dia 24 de Maio. Iremos adicionar mais itens à medida que tirarmos fotos.<br>
 
-Obrigado!
+Obrigado!<br>
 
 Jonatas Marques
+</font>
 
 # Disponibilidade Imediata
 
