@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Itens à Venda"
 permalink: /itensavenda/
 author_profile: false
