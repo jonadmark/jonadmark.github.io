@@ -1,14 +1,24 @@
 ---
-layout: default
+layout: compress
 ---
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+{% include base_path %}
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    <!-- {% include masthead.html %} -->
+
     {{ content }}
-  </div>
-</div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
