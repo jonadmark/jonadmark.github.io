@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blank
 title: "Itens à Venda"
 permalink: /itensavenda/
 author_profile: false
