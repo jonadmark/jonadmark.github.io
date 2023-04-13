@@ -28,8 +28,8 @@ Jonatas Marques
 ![](../images/its/015.jpeg)
 ![](../images/its/016.jpeg)
 ![](../images/its/017.jpeg)
-![](../images/its/018.jpeg)
-![](../images/its/019.jpeg)
+<!-- ![](../images/its/018.jpeg) -->
+<!-- ![](../images/its/019.jpeg) -->
 ![](../images/its/020.jpeg)
 ![](../images/its/022.jpeg)
 ![](../images/its/023.jpeg)
