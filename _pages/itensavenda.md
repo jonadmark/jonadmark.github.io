@@ -31,9 +31,9 @@ Jonatas Marques
 <!-- ![](../images/its/018.jpeg) -->
 <!-- ![](../images/its/019.jpeg) -->
 ![](../images/its/020.jpeg)
-![](../images/its/022.jpeg)
+<!-- ![](../images/its/022.jpeg) -->
 ![](../images/its/023.jpeg)
-![](../images/its/024.jpeg)
+<!-- ![](../images/its/024.jpeg) -->
 ![](../images/its/025.jpeg)
 ![](../images/its/026.jpeg)
 ![](../images/its/027.jpeg)
