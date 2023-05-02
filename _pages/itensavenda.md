@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: "Itens à Venda"
+title: ""
 permalink: /itensavenda/
 author_profile: false
 ---
