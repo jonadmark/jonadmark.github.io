@@ -15,6 +15,7 @@ Jonatas Marques
 
 # Disponibilidade Imediata
 
+![](../images/its/025.jpeg)
 ![](../images/its/005.jpeg)
 ![](../images/its/006.jpeg)
 ![](../images/its/007.jpeg)
@@ -23,6 +24,9 @@ Jonatas Marques
 
 # Disponibilidade Por Volta do Dia 24 de Maio
 
+![](../images/its/023.jpeg)
+![](../images/its/024.jpeg)
+![](../images/its/026.jpeg)
 ![](../images/its/001.jpeg)
 ![](../images/its/020.jpeg)
 ![](../images/its/022.jpeg)
