@@ -15,6 +15,7 @@ Jonatas Marques
 
 # Disponibilidade Imediata
 
+![](../images/its/023.jpeg)
 ![](../images/its/001.jpeg)
 ![](../images/its/005.jpeg)
 ![](../images/its/007.jpeg)
