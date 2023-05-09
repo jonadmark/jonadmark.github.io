@@ -24,6 +24,7 @@ Jonatas Marques
 # Disponibilidade Por Volta do Dia 24 de Maio
 
 ![](../images/its/022.jpeg)
+![](../images/its/006.jpeg)
 ![](../images/its/011.jpeg)
 ![](../images/its/012.jpeg)
 ![](../images/its/013.jpeg)
