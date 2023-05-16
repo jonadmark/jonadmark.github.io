@@ -15,14 +15,14 @@ Jonatas Marques
 
 # Disponibilidade Imediata
 
+![](../images/its/004.png)
 ![](../images/its/001.jpeg)
-![](../images/its/005.jpeg)
-![](../images/its/007.jpeg)
-![](../images/its/008.jpeg)
+![](../images/its/005.png)
+![](../images/its/007.png)
+![](../images/its/008.png)
 
 
 # Disponibilidade Por Volta do Dia 24 de Maio
 
-![](../images/its/006.jpeg)
-![](../images/its/013.jpeg)
-![](../images/its/016.jpeg)
+![](../images/its/006.png)
+![](../images/its/016.png)
