@@ -17,8 +17,6 @@ Jonatas Marques
 
 ![](../images/its/004.png)
 ![](../images/its/001.jpeg)
-![](../images/its/005.png)
-![](../images/its/007.png)
 ![](../images/its/008.png)
 
 
