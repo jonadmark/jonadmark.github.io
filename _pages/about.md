@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a recently graduated PhD in Computer Science. I earned my degree from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/). My research primarily helps advance network management in the era of programmable networking. I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/). I am currently a research assistant working on the intersection of machine learning and computer networking.
+Hi! I'm Jonatas, a postdoc at the [Internet Equity Initiative](https://internetequity.uchicago.edu/) at the [Data Science Institute](https://datascience.uchicago.edu/) of The University of Chicago. My research primarily helps advance network management in the era of programmable networking. My current research interests is on the intersection of machine learning and computer networking. I hold a PhD degree in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).
+
+<!-- Hi! I'm Jonatas, a recently graduated PhD in Computer Science. I earned my degree from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).  I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/). I am currently a research assistant working on the intersection of machine learning and computer networking. -->
 
 **[[CV]](/files/cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=20R9TQ4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/jonatas-marques) [[Youtube]](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw) [[GitHub]](https://github.com/jonadmark)**
 
 News
 =====
+**[Jul, 2023]** I joined the [Internet Equity Initiative](https://internetequity.uchicago.edu/) at the [Data Science Institute](https://datascience.uchicago.edu/) of The University of Chicago.<br>
+**[May, 2023]** Our IFIP/IEEE NOMS paper on [Responding to network failures at data-plane speeds with network programmability](https://doi.org/10.1109/NOMS56928.2023.10154329) is out!<br>
 **[Jul, 2022]** I received the PhD degree with honors from the Federal University of Rio Grande do Sul (UFRGS, Brazil)!
  [Watch the defense presentation here](https://www.youtube.com/watch?v=MjewqfIDu2Y).<br>
 **[May, 2021]** Our IFIP/IEEE IM paper on [BUNGEE: An Adaptive Pushback Mechanism for DDoS Detection and Mitigation in P4 Data Planes](https://ieeexplore.ieee.org/abstract/document/9463992) is out!<br>
@@ -23,21 +27,25 @@ News
 **[Apr, 2019]** Our IFIP/IEEE IM paper on [Offloading Real-time DDoS Attack Detection to Programmable Data Planes](https://ieeexplore.ieee.org/abstract/document/8717869) received the Best Student Paper Award.<br>
 **[May, 2018]** Our SBC SBRC paper on [Strategies for Orchestrating In-band Network Telemetry in Programmable Data Planes](https://sol.sbc.org.br/index.php/sbrc/article/view/2495) received the Best Paper Award.
 
-Research Interests
+Main Research Interests
 =====
-* Machine Learning for Networking
+* Networking for Machine Learning Machine Learning for Networking
 * Network, Service and Application Management
 * Software-defined Networking
 * Programmable Networks
 
-Research Projects
+<!-- Research Projects
 =====
 * [SkyNet: Towards Smart Data Planes](https://www.inf.ufrgs.br/skynet/)
-* [P4Sec: Securing Networks in the Programmable Data Plane Era](http://www.inf.ufrgs.br/p4sec/)
+* [P4Sec: Securing Networks in the Programmable Data Plane Era](http://www.inf.ufrgs.br/p4sec/) -->
 
 Publications
 =====
 My published works are novel systems, frameworks, and models around topics of software-defined networks, programmable networks, network and service management, and cybersecurity. My work has been published at ACM CoNEXT, IEEE TNSM, IFIP/IEEE IM, JNSM, and JISA. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=20R9TQ4AAAAJ).
+
+**[2023]** **[Responding to network failures at data-plane speeds with network programmability](https://doi.org/10.1109/NOMS56928.2023.10154329)**. Marques, Jonatas; Levchenko, Kirill; Gaspary, Luciano. IEEE/IFIP Network Operations and Management Symposium (NOMS).
+
+**[2023]** **[VERMONT: Towards an In-band Telemetry-Based Approach for Live Network Property Verification](https://doi.org/10.1109/NOMS56928.2023.10154335)**. Vassoler, Gabriel; Marques, Jonatas; Gaspary, Luciano. IEEE/IFIP Network Operations and Management Symposium (NOMS).
 
 **[2022]** **[Janus: a framework to boost HPC applications in the cloud based on SDN path provisioning](https://link.springer.com/article/10.1007/s10586-021-03470-6)**. Pretto, Guilherme R; Dalmazo, Bruno L; Marques, Jonatas A; Wu, Zhongke; Wang, Xingce; Korkhov, Vladimir; Navaux, Philippe OA; Gaspary, Luciano P. Cluster Computing, Springer US.
 
