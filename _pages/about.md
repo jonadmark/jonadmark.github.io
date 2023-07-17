@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a postdoc at the [Internet Equity Initiative](https://internetequity.uchicago.edu/) at the [Data Science Institute](https://datascience.uchicago.edu/) of The University of Chicago. My research primarily helps advance network management in the era of programmable networking. My current research interests is on the intersection of machine learning and computer networking. I hold a PhD degree in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).
+Hi! I'm Jonatas, a postdoctoral scholar at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/) and the [Internet Equity Initiative](https://internetequity.uchicago.edu/). My research primarily helps advance network management in the era of programmable networking. My current research interests is on the intersection of machine learning and computer networking. I hold a PhD degree in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).
 
 <!-- Hi! I'm Jonatas, a recently graduated PhD in Computer Science. I earned my degree from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).  I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/). I am currently a research assistant working on the intersection of machine learning and computer networking. -->
 
@@ -29,7 +29,8 @@ News
 
 Main Research Interests
 =====
-* Networking for Machine Learning Machine Learning for Networking
+* Networking for Machine Learning
+* Machine Learning for Networking
 * Network, Service and Application Management
 * Software-defined Networking
 * Programmable Networks
