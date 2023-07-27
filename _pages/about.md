@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a postdoctoral scholar at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/) and the [Internet Equity Initiative](https://internetequity.uchicago.edu/). My research primarily helps advance network management in the era of programmable networking. My current research interests is on the intersection of machine learning and computer networking. I hold a PhD degree in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).
+Hi! I'm Jonatas, a postdoctoral scholar at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/) and the [Internet Equity Initiative](https://internetequity.uchicago.edu/). My research primarily helps advance network monitoring and operation in the era of programmable networking. I hold a PhD degree in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).
 
 <!-- Hi! I'm Jonatas, a recently graduated PhD in Computer Science. I earned my degree from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).  I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/). I am currently a research assistant working on the intersection of machine learning and computer networking. -->
 
 **[[CV]](/files/cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=20R9TQ4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/jonatas-marques) [[Youtube]](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw) [[GitHub]](https://github.com/jonadmark)**
+
+Main Research Interests
+=====
+* Networking for Machine Learning
+* Machine Learning for Networking
+* Network, Service and Application Management, Operation and Monitoring
+* Software-defined Networking
+* Programmable Networks
 
 News
 =====
@@ -26,14 +34,6 @@ News
 **[Dec, 2019]** Our JISA article on [An optimization-based approach for efficient network monitoring using in-band network telemetry](https://link.springer.com/article/10.1186/s13174-019-0112-0) is out!<br>
 **[Apr, 2019]** Our IFIP/IEEE IM paper on [Offloading Real-time DDoS Attack Detection to Programmable Data Planes](https://ieeexplore.ieee.org/abstract/document/8717869) received the Best Student Paper Award.<br>
 **[May, 2018]** Our SBC SBRC paper on [Strategies for Orchestrating In-band Network Telemetry in Programmable Data Planes](https://sol.sbc.org.br/index.php/sbrc/article/view/2495) received the Best Paper Award.
-
-Main Research Interests
-=====
-* Networking for Machine Learning
-* Machine Learning for Networking
-* Network, Service and Application Management
-* Software-defined Networking
-* Programmable Networks
 
 <!-- Research Projects
 =====
