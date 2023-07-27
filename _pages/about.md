@@ -24,7 +24,7 @@ Main Research Interests
 
 News
 =====
-**[Jul, 2023]** I joined the [Internet Equity Initiative](https://internetequity.uchicago.edu/) at the [Data Science Institute](https://datascience.uchicago.edu/) of The University of Chicago.<br>
+**[Jul, 2023]** I joined the [Internet Equity Initiative](https://internetequity.uchicago.edu/) at the [Data Science Institute](https://datascience.uchicago.edu/) of The University of Chicago!<br>
 **[May, 2023]** Our IFIP/IEEE NOMS paper on [Responding to network failures at data-plane speeds with network programmability](https://doi.org/10.1109/NOMS56928.2023.10154329) is out!<br>
 **[Jul, 2022]** I received the PhD degree with honors from the Federal University of Rio Grande do Sul (UFRGS, Brazil)!
  [Watch the defense presentation here](https://www.youtube.com/watch?v=MjewqfIDu2Y).<br>
