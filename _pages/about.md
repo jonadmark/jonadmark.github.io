@@ -16,7 +16,7 @@ Hi! I'm Jonatas, a postdoctoral scholar at the [University of Chicago](https://w
 
 Main Research Interests
 =====
-* Network, Service and Application Measurement, Operation, and Management
+* Network Measurement, Operation, and Management
 * Networking for Machine Learning
 * Machine Learning for Networking
 * Software-defined Networking
