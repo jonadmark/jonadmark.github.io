@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jonatas, a postdoctoral scholar at the [University of Chicago](https://www.uchicago.edu/) and the [Internet Equity Initiative at the Data Science Institute](https://internetequity.uchicago.edu/). My research primarily helps advance network measurement and operation practices. I hold a PhD degree in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/). During my PhD, I also spent one year as a visiting research scholar at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
-
-<!-- Hi! I'm Jonatas, a recently graduated PhD in Computer Science. I earned my degree from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/).  I was advised by [Prof. Luciano Paschoal Gaspary](https://www.inf.ufrgs.br/~paschoal). During my PhD, I also spent one year as a research scholar at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) working with [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/). I am currently a research assistant working on the intersection of machine learning and computer networking. -->
+Hi! I'm Jonatas, a postdoctoral scholar at the [University of Chicago](https://www.uchicago.edu/): [Data Science Institute](https://internetequity.uchicago.edu/). My research primarily helps advance network measurement and operation practices. I hold a PhD degree in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS, Brazil)](http://www.ufrgs.br/). During my PhD, I also spent one year as a visiting research scholar at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
 **[[CV]](/files/cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=20R9TQ4AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/jonatas-marques) [[Youtube]](https://www.youtube.com/channel/UCUQD-vpU_KKyNHsgAluNFNw) [[GitHub]](https://github.com/jonadmark)**
 
@@ -23,7 +21,7 @@ Main Research Interests
 
 News
 =====
-**[Jul, 2023]** I joined the [Internet Equity Initiative](https://internetequity.uchicago.edu/) at the [Data Science Institute](https://datascience.uchicago.edu/) of the [University of Chicago](https://www.uchicago.edu/)!<br>
+**[Jul, 2023]** I joined the [Data Science Institute](https://datascience.uchicago.edu/) of the [University of Chicago](https://www.uchicago.edu/)!<br>
 **[May, 2023]** Our IFIP/IEEE NOMS paper on [Responding to network failures at data-plane speeds with network programmability](https://doi.org/10.1109/NOMS56928.2023.10154329) is out!<br>
 **[Jul, 2022]** I received the PhD degree with honors from the Federal University of Rio Grande do Sul (UFRGS, Brazil)!
  [Watch the defense presentation here](https://www.youtube.com/watch?v=MjewqfIDu2Y).<br>
