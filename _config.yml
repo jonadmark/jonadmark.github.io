@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jonatas A. Marques"
   avatar           : "profile.png"
-  bio              : "Postdoc, University of Chicago" # "Ph.D. in Computer Science"
+  bio              : "jmarques at uchicago dot edu" # "Ph.D. in Computer Science"
   location         :  # "Joinville, Brazil → Illinois, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=20R9TQ4AAAAJ"
-  email            : "jmarques@uchicago.edu"
+  email            : #"jmarques@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
