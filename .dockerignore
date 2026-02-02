@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.git
+.gitignore
+README.md
+QUICKSTART.md
+.DS_Store
+Gemfile.lock
