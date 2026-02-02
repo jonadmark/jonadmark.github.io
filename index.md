@@ -9,11 +9,11 @@ I have a [PhD](https://www.youtube.com/watch?v=MjewqfIDu2Y) in Computer Science 
 
 <div class="social-links">
   <!-- <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a> -->
+  <a href="mailto:jonatasamarques@gmail.com" target="_blank">Email</a>
   <a href="https://www.linkedin.com/in/jonatas-marques/" target="_blank">LinkedIn</a>
   <a href="https://github.com/jonadmark" target="_blank">GitHub</a>
   <a href="https://www.youtube.com/@jonatasamarques" target="_blank">YouTube</a>
   <a href="https://scholar.google.com/citations?user=20R9TQ4AAAAJ&hl=en" target="_blank">Google Scholar</a>
-  <a href="mailto:jonatasamarques@gmail.com" target="_blank">Email</a>
 </div>
 
 
