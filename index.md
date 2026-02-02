@@ -8,7 +8,7 @@ Currently, I work at the [University of Chicago](https://datascience.uchicago.ed
 I have a [PhD](https://www.youtube.com/watch?v=MjewqfIDu2Y) in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS)](https://www.inf.ufrgs.br/ppgc/en) in Brazil.
 
 <div class="social-links">
-  <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a>
+  <!-- <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a> -->
   <a href="https://www.linkedin.com/in/jonatas-marques/" target="_blank">LinkedIn</a>
   <a href="https://github.com/jonadmark" target="_blank">GitHub</a>
   <a href="https://www.youtube.com/@jonatasamarques" target="_blank">YouTube</a>
