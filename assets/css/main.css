@@ -55,8 +55,8 @@ a:hover {
 
 /* Header navigation */
 header {
-  margin-bottom: 3em;
-  padding-bottom: 1em;
+  margin-bottom: 2.5em;
+  /* padding-bottom: 1em; */
   border-bottom: 1px solid #e0e0e0;
 }
 
