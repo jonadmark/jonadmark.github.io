@@ -264,3 +264,43 @@ footer {
     margin-bottom: 0.5em;
   }
 }
+
+
+.iframe-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 720px; /* maximum width */
+  padding-bottom: 56.25%; /* 16:9 aspect ratio (9/16 = 0.5625) */
+  height: 0;
+  overflow: hidden;
+}
+
+.iframe-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+.figure-container {
+  max-width: 540px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.figure-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.figure-container figcaption {
+  font-size: smaller;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  /* font-style: italic; */
+  color: #666;
+}

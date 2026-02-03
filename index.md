@@ -6,7 +6,7 @@ title:
 I am a researcher and engineer specializing in networked and distributed systems. Currently, I work at the [University of Chicago](https://datascience.uchicago.edu/) with [Nick Feamster](https://feamster.github.io/) in the [Network Operations and Internet Security (NOISE)](https://noise.cs.uchicago.edu/) Research Lab. I have a [PhD](https://www.youtube.com/watch?v=MjewqfIDu2Y) in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS)](https://www.inf.ufrgs.br/ppgc/en) in Brazil.
 
 <div class="social-links">
-  <!-- <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a> -->
+  <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a>
   <a href="mailto:jonatasamarques@gmail.com" target="_blank">Email</a>
   <a href="https://www.linkedin.com/in/jonatas-marques/" target="_blank">LinkedIn</a>
   <a href="https://github.com/jonadmark" target="_blank">GitHub</a>
@@ -56,16 +56,22 @@ The full list of publications is available on [Google Scholar](https://scholar.g
 
 ### [Advancing Network Monitoring and Operation with In-band Network Telemetry and Data Plane Programmability](https://www.youtube.com/watch?v=MjewqfIDu2Y)
 <span style="color:grey;">Jul, 2022</span> • PhD Defense at the Federal University of Rio Grande do Sul (UFRGS, Brasil)
-<center><iframe width="480" height="240" src="https://www.youtube.com/embed/MjewqfIDu2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="iframe-wrapper">
+    <iframe src="https://www.youtube.com/embed/MjewqfIDu2Y" title="Advancing Network Monitoring and Operation with In-band Network Telemetry and Data Plane Programmability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### [IntSight: Diagnosing SLO Violations with In-band Network Telemetry](https://www.youtube.com/watch?v=1KA6CJ7qqSU)
 <span style="color:grey;">Dec, 2020</span> • The 16th ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT'20)
-<center><iframe width="480" height="240" src="https://www.youtube.com/embed/1KA6CJ7qqSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="iframe-wrapper">
+<iframe src="https://www.youtube.com/embed/1KA6CJ7qqSU" title="IntSight: Diagnosing SLO Violations with In-band Network Telemetry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### [Escada: Predicting Virtual Machine Network Bandwidth Demands for Elastic Provisioning in IaaS Clouds](https://www.youtube.com/watch?v=lCjUHEGZnbI)
 <span style="color:grey;">Sep, 2017</span> • The 2017 IEEE International Conference on Cloud and
 Autonomic Computing (ICCAC'17)
-<center><iframe width="480" height="240" src="https://www.youtube.com/embed/lCjUHEGZnbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div class="iframe-wrapper">
+<iframe src="https://www.youtube.com/embed/lCjUHEGZnbI" title="Escada: Predicting Virtual Machine Network Bandwidth Demands for Elastic Provisioning in IaaS Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <!-- 
 ## Code

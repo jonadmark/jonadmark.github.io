@@ -5,16 +5,14 @@ title: Posts
 
 ## Posts
 
-Coming soon.
-
 <ul class="blog-post-list">
-  <!-- <li>
-    <div class="post-title"><a href="{{ '/blog/example-post/' | relative_url }}">Example Blog Post Title</a></div>
-    <div class="post-date">January 30, 2026</div>
+  <li>
+    <div class="post-title"><a href="{{ '/blog/intsight/' | relative_url }}">Diagnosing SLO violations with Path-wise In-band Network Telemetry</a></div>
+    <!-- <div class="post-date">January 30, 2026</div> -->
     <div class="post-excerpt">
-      This is a short excerpt or summary of the blog post. Replace this with a brief description of what the post is about to give readers a preview.
+      IntSight is an in-network, distributed path-aware system for monitoring network traffic capable of fine-grained and highly-accurate detection and diagnosis of problems impacting performance, with judicious utilization of control plane bandwidth and analyzer server resources.
     </div>
-  </li> -->
+  </li>
   
   <!-- Add more posts manually using the same format:
   <li>
