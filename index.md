@@ -3,7 +3,7 @@ layout: default
 title: 
 ---
 
-I am a researcher and engineer specializing in networked and distributed systems. Currently, I am research scientist at [IPinfo](https://ipinfo.io/), helping empower organizations with accurate IP address data. Previously, I was part of the [Network Operations and Internet Security (NOISE)](https://noise.cs.uchicago.edu/) research lab led by [Nick Feamster](https://feamster.github.io/) at the [University of Chicago](https://datascience.uchicago.edu/). I have a [PhD](https://www.youtube.com/watch?v=MjewqfIDu2Y) in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS)](https://www.inf.ufrgs.br/ppgc/en) in Brazil.
+I am a researcher and engineer specializing in networked and distributed systems. Currently, I am a research scientist at [IPinfo](https://ipinfo.io/), helping empower organizations with accurate IP address data. Previously, I was part of the [Network Operations and Internet Security (NOISE)](https://noise.cs.uchicago.edu/) research lab led by [Nick Feamster](https://feamster.github.io/) at the [University of Chicago](https://datascience.uchicago.edu/). I have a [PhD](https://www.youtube.com/watch?v=MjewqfIDu2Y) in Computer Science from the [Federal University of Rio Grande do Sul (UFRGS)](https://www.inf.ufrgs.br/ppgc/en) in Brazil.
 
 <div class="social-links">
   <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a>
